@@ -1,5 +1,5 @@
 # Cloud Security Project
-Here is my anime list
+Here is my animes list
 
 ### How does it work ?
 - First, use the command : **git clone** to clone the repository
